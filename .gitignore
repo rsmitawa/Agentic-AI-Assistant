@@ -1,0 +1,11 @@
+.DS_Store
+.chainlit/
+.env
+.venv/
+README_backup.md
+__pycache__/
+agent-env/
+base_test/
+chainlit.md
+requirements.txt
+vectorstore/
